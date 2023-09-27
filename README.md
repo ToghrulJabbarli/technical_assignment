@@ -8,7 +8,7 @@ This Scala project calculates the price of a shopping basket with special offers
 - [Getting Started](#getting-started)
   - [1. Clone the Repository](#1-clone-the-repository)
   - [2. Compile the Scala Source Files](#2-compile-the-scala-source-files)
-- [Running the Program](#running-the-program)
+- [Running the Program](#running-program)
 - [Running Tests](#running-tests)
 
 ## Prerequisites
